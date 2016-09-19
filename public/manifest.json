@@ -1,0 +1,8 @@
+{
+  "name": "PWA experiment",
+  "short_name": "PWA Exp",
+  "lang": "en-us",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#5bc0de"
+}
